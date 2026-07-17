@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="assets/welcome.svg" width="100%" />
+
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NotNookie&style=flat-square&color=3B82F6&label=VISITORS&abbreviated=true&labelColor=0D1117" />
   <img src="https://img.shields.io/github/followers/NotNookie?label=FOLLOWERS&style=flat-square&color=3B82F6&labelColor=0D1117&logo=github" />
