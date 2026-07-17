@@ -5,12 +5,12 @@
   <text
     x="900"
     y="27"
-    fill="#ff3b30"
+    fill="#3B82F6"
     font-size="20"
-    font-family="Consolas, monospace"
+    font-family="Courier New"    
     font-weight="bold">
 
-    ► WELCOME TO MY GITHUB • WELCOME TO MY GITHUB • WELCOME TO MY GITHUB •
+    ► WELCOME TO NOOKIE'S GITHUB • FULL STACK DEVELOPER • REACT • AI • OPEN FOR FREELANCE •
 
     <animate
       attributeName="x"
